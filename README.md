@@ -114,6 +114,10 @@ Available methods:
 - turnOff: manually flip the switch off (or stay off, if already off)
 
 - getValue: get the current value of the switch (see 'values' option)
+
+- disable: disable interaction with the toggle
+
+- enable: re-enable interaction with the toggle (only needed if toggleSwitch has been disabled)
 ````
 
 ## Credit
